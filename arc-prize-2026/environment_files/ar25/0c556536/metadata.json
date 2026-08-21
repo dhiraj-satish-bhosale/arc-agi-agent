@@ -1,0 +1,20 @@
+{
+  "game_id": "ar25-0c556536",
+  "title": "AR25",
+  "default_fps": 6,
+  "tags": [
+    "keyboard_click"
+  ],
+  "baseline_actions": [
+    32,
+    50,
+    75,
+    37,
+    89,
+    159,
+    233,
+    73
+  ],
+  "local_dir": "arc-prize-2026\\environment_files\\ar25\\0c556536",
+  "date_downloaded": "2026-08-20T17:43:33.229104+00:00"
+}

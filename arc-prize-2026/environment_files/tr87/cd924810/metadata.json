@@ -1,0 +1,18 @@
+{
+  "game_id": "tr87-cd924810",
+  "title": "TR87",
+  "default_fps": 10,
+  "tags": [
+    "keyboard"
+  ],
+  "baseline_actions": [
+    54,
+    58,
+    40,
+    45,
+    71,
+    146
+  ],
+  "local_dir": "arc-prize-2026\\environment_files\\tr87\\cd924810",
+  "date_downloaded": "2026-08-20T17:43:37.314685+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "game_id": "su15-1944f8ab",
+  "title": "SU15",
+  "default_fps": 20,
+  "tags": [
+    "click"
+  ],
+  "baseline_actions": [
+    22,
+    42,
+    26,
+    115,
+    36,
+    31,
+    8,
+    40,
+    41
+  ],
+  "local_dir": "arc-prize-2026\\environment_files\\su15\\1944f8ab",
+  "date_downloaded": "2026-08-20T17:43:51.169419+00:00"
+}

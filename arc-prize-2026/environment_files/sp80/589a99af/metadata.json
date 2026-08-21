@@ -1,0 +1,18 @@
+{
+  "game_id": "sp80-589a99af",
+  "title": "SP80",
+  "default_fps": 10,
+  "tags": [
+    "keyboard_click"
+  ],
+  "baseline_actions": [
+    39,
+    58,
+    25,
+    148,
+    96,
+    152
+  ],
+  "local_dir": "arc-prize-2026\\environment_files\\sp80\\589a99af",
+  "date_downloaded": "2026-08-20T17:43:44.463451+00:00"
+}

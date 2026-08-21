@@ -1,0 +1,16 @@
+{
+  "game_id": "ft09-0d8bbf25",
+  "title": "FT09",
+  "default_fps": 8,
+  "baseline_actions": [
+    43,
+    12,
+    23,
+    28,
+    65,
+    37
+  ],
+  "tags": [],
+  "local_dir": "arc-prize-2026\\environment_files\\ft09\\0d8bbf25",
+  "date_downloaded": "2026-08-20T17:43:52.909297+00:00"
+}
